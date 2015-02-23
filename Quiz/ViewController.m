@@ -25,6 +25,7 @@
     resposta = @[@"Universidade Presbiteriana Mackenzie", @"MackMobile", @"Ilana"];
     
     imagens = @[[UIImage imageNamed:@"imagem2.png"], [UIImage imageNamed:@"imagem1.jpg"], [UIImage imageNamed:@"imagem3.jpg"]];
+    
     contadorPerg = -1;
     [labeResposta setText:@"???"];
     [labelPergunta setText:nil];
